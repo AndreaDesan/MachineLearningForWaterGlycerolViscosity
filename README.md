@@ -11,6 +11,3 @@ The machine learning algorithms we will consider are:
 The performance of the Machine Learning algorithms will also be compared with a state-of-the-art correlation taken from Cheng, N.S., *Formula for the viscosity of a water-glycerol mixture*, Industrial & Engineering Chemistry Research, 47, 3285-3288 (2008)
 
 All the Machine Learning analysis will be performed using the well-known [Scikit Learn](https://scikit-learn.org/stable/) Python library within the [Jupyter Notebook](https://jupyter.org/) environment. A home-made Python module will be used to perform an ANOVA analysis for the linear regression.
-
-More information can be found in [this blogpost](https://www.centds.com/2019/08/23/predict-the-viscosity-of-a-water-glycerol-mixture-using-machine-learning/).
-
